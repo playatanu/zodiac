@@ -1,0 +1,133 @@
+late List zodiacList = [
+  {
+    'zodiacName': 'Ariesrr',
+    'zodiacSubName': 'Ram',
+    'zodiacAbout':
+        'Aries is the first astrological sign in the zodiac, spanning the first 30 degrees of celestial longitude, and originates from the constellation of the same name. Under the tropical zodiac, the Sun transits this sign from approximately March 20 to April 21 each year.',
+    'zodiacDate': 'Mar 21 – Apr 19',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/1.png',
+    'zodiacPlanet': 'Mars',
+    'zodiacElement': 'Fire',
+  },
+  {
+    'zodiacName': 'Taurus',
+    'zodiacSubName': 'Bull',
+    'zodiacAbout':
+        'Taurus, is the second astrological sign in the modern zodiac. It spans from 30° to 60° of the zodiac. This sign belongs to the Earth element or triplicity, and has a feminine or negative polarity, as well as a fixed modality, quality, or quadruplicity. It is a Venus-ruled sign along with Libra.',
+    'zodiacDate': 'April 20–May 20',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/2.png',
+    'zodiacPlanet': 'Venus',
+    'zodiacElement': 'Earth',
+  },
+  {
+    'zodiacName': 'Gemini',
+    'zodiacSubName': 'Twins',
+    'zodiacAbout':
+        'Gemini is the third astrological sign in the zodiac, originating from the constellation of Gemini. Under the tropical zodiac, the sun transits this sign between about May 21 to June 21. Under the sidereal zodiac, the sun transits this sign from about June 16 to July 16.',
+    'zodiacDate': 'May 21–June 21',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/3.png',
+    'zodiacPlanet': 'Mercury',
+    'zodiacElement': 'Air',
+  },
+  {
+    'zodiacName': 'Cancer',
+    'zodiacSubName': 'Crab',
+    'zodiacAbout':
+        'Cancer is the fourth astrological sign in the zodiac, originating from the constellation of Cancer. It spans from 90° to 120° celestial longitude.',
+    'zodiacDate': 'June 22–July 22',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/4.png',
+    'zodiacPlanet': '',
+    'zodiacElement': 'Water',
+  },
+  {
+    'zodiacName': 'Leo',
+    'zodiacSubName': 'Lion',
+    'zodiacAbout': '',
+    'zodiacDate': 'Jul 23–Aug 22',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/5.png',
+    'zodiacPlanet': 'Sun',
+    'zodiacElement': 'Fire',
+  },
+  {
+    'zodiacName': 'Virgo',
+    'zodiacSubName': 'Virgin',
+    'zodiacAbout':
+        'Leo, Latin for Lion, is the fifth sign of the zodiac. It corresponds to the constellation Leo and comes after Cancer and before Virgo. The traditional Western zodiac associates Leo with the period between July 23 and August 22, and the sign spans the 120th to 150th degree of celestial longitude.',
+    'zodiacDate': 'Aug 23–Sep 22',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/6.png',
+    'zodiacPlanet': '',
+    'zodiacElement': '',
+  },
+  {
+    'zodiacName': 'Libra',
+    'zodiacSubName': 'Balance',
+    'zodiacAbout':
+        'Libra is the seventh astrological sign in the zodiac. Libra is Latin for scales. It spans 180°–210° celestial longitude. The Sun transits this sign on average between September 23 and October 23.',
+    'zodiacDate': 'Sep 23–Oct 23',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/7.png',
+    'zodiacPlanet': 'Venus',
+    'zodiacElement': 'Air',
+  },
+  {
+    'zodiacName': 'scorpio ',
+    'zodiacSubName': 'Scorpion',
+    'zodiacAbout':
+        'Scorpio is the eighth astrological sign in the zodiac, originating from the constellation of Scorpius. It spans 210°–240° ecliptic longitude. Under the tropical zodiac, the Sun transits this sign on average from October 23 to November 22.',
+    'zodiacDate': 'Oct 24–Nov 21',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/8.png',
+    'zodiacPlanet': 'Moon',
+    'zodiacElement': ' Water',
+  },
+  {
+    'zodiacName': 'Sagittarius ',
+    'zodiacSubName': 'Archer',
+    'zodiacAbout':
+        'Sagittarius is the ninth astrological sign, which is associated with the constellation Sagittarius and spans 240–270th degrees of the zodiac. Under the tropical zodiac, the sun transits this sign between approximately November 23 and December 21.',
+    'zodiacDate': 'Nov 22–Dec 21',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/9.png',
+    'zodiacPlanet': 'Jupiter',
+    'zodiacElement': 'Fire',
+  },
+  {
+    'zodiacName': 'Capricornus',
+    'zodiacSubName': 'Goat',
+    'zodiacAbout':
+        'Capricornus is one of the constellations of the zodiac. Its name is Latin for "horned goat" or "goat horn" or "having horns like a goats", and it is commonly represented in the form of a sea goat a mythical creature that is half goat, half fish. Its symbol is or alternatively.',
+    'zodiacDate': 'Dec 22–Jan 19',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/10.png',
+    'zodiacPlanet': '',
+    'zodiacElement': '',
+  },
+  {
+    'zodiacName': 'Aquarius',
+    'zodiacSubName': 'Water Bearer',
+    'zodiacAbout':
+        'Aquarius is the eleventh astrological sign in the zodiac, originating from the constellation Aquarius.',
+    'zodiacDate': 'Jan 20–Feb 18',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/11.png',
+    'zodiacPlanet': 'Uranus',
+    'zodiacElement': 'Air',
+  },
+  {
+    'zodiacName': 'Pisces',
+    'zodiacSubName': 'Fish',
+    'zodiacAbout':
+        'Pisces is the twelfth and final astrological sign in the zodiac. It is a negative, mutable sign. It spans 330° to 360° of celestial longitude. Under the tropical zodiac, the sun transits this area between February 19 and March 20.',
+    'zodiacDate': 'Feb 19–Mar 20',
+    'zodiacLuckyDate': '',
+    'zodiacImage': 'assets/12.png',
+    'zodiacPlanet': 'Neptune',
+    'zodiacElement': 'Water',
+  },
+];
