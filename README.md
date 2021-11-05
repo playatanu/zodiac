@@ -1,4 +1,4 @@
-# zodiac
+# Zodiac
 
 Your REAL zodiac sign
 
